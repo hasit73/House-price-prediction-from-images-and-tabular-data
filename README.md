@@ -32,8 +32,7 @@ House price estimation by building hybrid model which accept both image and text
 
 #### Model architecture
 
-
-
+![model-structure](https://user-images.githubusercontent.com/69752829/141650881-92c517ec-abb0-4020-97b7-f7e785038006.png)
 
 # How to use 
 
